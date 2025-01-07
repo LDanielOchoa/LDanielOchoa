@@ -2,7 +2,7 @@
 
 ## Sobre mi :
 
-- 🏢 Actualmente soy **Desarrollador de web Junior** 
+- 🏢 Actualmente soy **Desarrollador web Junior** 
 - 🏢 Estudiante de **Ingeniera de Sofware** en [PolitecnicoGranColombiano](https://www.poli.edu.co/)
 - 🏡'Vivo en **Colombia - Medellin**
 - ⚡ **Me gusta** : 🍕 🏉 🏏 🎥 🚞
