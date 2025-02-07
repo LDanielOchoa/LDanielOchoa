@@ -8,7 +8,7 @@
 
 - 🏢 Estudiante de **Ingeniería de Software** en [Politécnico Grancolombiano](https://www.poli.edu.co/), donde desarrollo habilidades técnicas y analíticas para enfrentar los desafíos del mundo del software.
 
-- 🏡 Vivo en **Colombia - bello**, una ciudad vibrante y llena de inspiración para la tecnología y la innovación.
+- 🏡 Vivo en **Colombia - Bello**
 
 - ⚡ **Me gusta:**  
   - 🍕 Disfruto de la buena comida, especialmente una deliciosa pizza.
