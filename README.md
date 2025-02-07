@@ -36,8 +36,7 @@
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> 
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="![imagen](https://github.com/user-attachments/assets/b33792b9-eef7-4d91-af66-3d894399e732)
-"/>
+<img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 <br>
